@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+<!-- name_pronunciation: Chien Shiung Wu -->
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kalysha
+last_name: Utama
 
 # Pronouns (optional)
 pronouns: she/her
@@ -23,31 +23,24 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Edgage
+    url: https://edgage.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kalyshasachiutama@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kalyshautama
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/kalysha-utama/
+
 
 interests:
   - Artificial Intelligence
@@ -55,10 +48,9 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Data Science and AI
+    institution: University of Doha for Science and Technology 
+    date_end: 2025
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
